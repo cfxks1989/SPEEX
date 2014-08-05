@@ -1,1 +1,1 @@
-high_lsp_tables.lo high_lsp_tables.o: high_lsp_tables.c
+high_lsp_tables.lo: high_lsp_tables.c

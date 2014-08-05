@@ -1,6 +1,6 @@
 # libspeexdsp pkg-config source file
 
-prefix=/Users/1akang/Desktop/SPEEX1akang/speex-1.2rc1/armv7s
+prefix=/Users/chenfeng/Desktop/SPEEXchenfeng/speex-1.2rc1/armv7
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

@@ -1,1 +1,1 @@
-hexc_table.lo hexc_table.o: hexc_table.c
+hexc_table.lo: hexc_table.c

@@ -1,1 +1,1 @@
-gain_table.lo gain_table.o: gain_table.c
+gain_table.lo: gain_table.c
